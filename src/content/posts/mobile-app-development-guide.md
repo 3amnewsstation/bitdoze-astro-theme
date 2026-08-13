@@ -1,12 +1,20 @@
 ---
 title: "Mobile App Development Guide"
 meta_title: "Complete Guide to Mobile App Development in 2023"
-description: "Learn the essentials of mobile app development, including native vs cross-platform approaches, popular frameworks, and best practices."
-date: 2023-10-12
+description: "Learn the essentials of mobile app development, including native
+  vs cross-platform approaches, popular frameworks, and best practices."
+date: 2023-10-12T00:00:00.000Z
 image: "../../assets/images/mobile-development.svg"
-authors: ["dragos"]
-categories: ["Web Development"]
-tags: ["mobile", "react-native", "flutter", "ios", "android"]
+authors:
+  - 3amnewsstation
+categories:
+  - Web Development
+tags:
+  - mobile
+  - react-native
+  - flutter
+  - ios
+  - android
 ---
 
 
